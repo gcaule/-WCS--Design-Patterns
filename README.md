@@ -1,3 +1,3 @@
 Wild Code School -- https://wildcodeschool.fr/
 
-Design pattern exercice - Singleton example
+Design pattern exercise - Singleton example
